@@ -6,7 +6,14 @@
 
 <h3 align="left">Some automatically generated stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmayus&show_icons=true&locale=en&layout=compact" alt="realmayus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realmayus&show_icons=true&title_color=000000&locale=en" alt="realmayus" /></p>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmayus&show_icons=true&locale=en&layout=compact" alt="realmayus" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=realmayus&show_icons=true&title_color=000000&locale=en" alt="realmayus" />
+    </td>
+  </tr>
+</table>
 
