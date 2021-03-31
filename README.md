@@ -22,7 +22,7 @@
   </li>
   <li>Databases
     <ul>
-      <li>Firebase</li>
+      <li>Firebase Firestore</li>
       <li>MongoDB</li>
       <li>MySQL</li>
     </ul>
@@ -32,7 +32,6 @@
   <li>Miscellaneous
     <ul> 
       <li>nginx</li>
-      <li>Firebase</li>
       <li>Linux</li>
       <li>Git</li>
       <li>Figma / Adobe XD</li>
