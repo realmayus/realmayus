@@ -5,6 +5,7 @@
   <li>Python
     <ul>
       <li>Flask</li>
+      <li>PyQt</li>
     </ul>
   </li>
     <li>JavaScript
@@ -14,12 +15,7 @@
       <li>NodeJS</li>
     </ul>
   </li>
-  <li>HTML</li>
-  <li>CSS
-    <ul>
-      <li>SCSS</li>
-    </ul>
-  </li>
+  <li>HTML, CSS</li>
   <li>Databases
     <ul>
       <li>Firebase Firestore</li>
@@ -41,8 +37,6 @@
   
   
 </ul>
-
-<h3 align="left">Some automatically generated stats:</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmayus&show_icons=true&locale=en&layout=compact&text_color=ffffff&hide_border=true&bg_color=0E141B&title_color=4A67F7" alt="realmayus" />
 
