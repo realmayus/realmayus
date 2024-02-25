@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
 
-<h3 align="left">Tech I know:</h3>
+<h3 align="left">Tech I use:</h3>
 <ul>
-  <li>Python
-  </li>
-  <li>JavaScript (Frontend and backend development)
+  <li>Rust</li>
+  <li>Python</li>
+  <li>JavaScript/TypeScript (frontend and backend development)
    <ul>
       <li>React</li>
-      <li>ExpressJS</li>
       <li>NodeJS</li>
     </ul>
   </li>
-  <li>HTML, CSS</li>
-  <li>MongoDB, MySQL</li>
-  <li>Java</li>
-  <li>C#</li>
+  <li>Kotlin</li>
   <li>...and more</li>
 </ul>
 
