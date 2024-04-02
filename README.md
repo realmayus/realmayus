@@ -14,6 +14,14 @@
   <li>...and more</li>
 </ul>
 
+<h3>Current interests:</h3>
+<ul>
+  <li>Graphics Programming (Vulkan)</li>
+  <li>Rust</li>
+  <li>Game Development</li>
+  <li>Systems programming</li>
+</ul>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmayus&show_icons=true&locale=en&layout=compact&text_color=ffffff&hide_border=true&bg_color=0E141B&title_color=4A67F7" alt="realmayus" />
 
 
